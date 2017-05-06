@@ -8,7 +8,7 @@ Deep in MEAN Stack
 
 # Get the code
 
-	- git clone https://github.com/simonholmes/getting-MEAN.git
+	- git clone https://github.com/adoel90/libraryApp.git
 
 	- cd 'libraryApp'
 	
